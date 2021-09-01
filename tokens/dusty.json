@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Wrapped Dusty",
+    "address": "0xd3435b369d25e7DFcbdf7371B23DBa8bbb734d49",
+    "symbol": "WPLD",
+    "decimals": 18,
+    "chainId": 80,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/pld.jpg"
+  }
+]
