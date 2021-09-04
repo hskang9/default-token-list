@@ -759,4 +759,12 @@
     "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x137Ee749f0F8c2eD34cA00dE33BB59E3dafA494A/logo.png"
   }
+  {
+    "name": "Standard",
+    "address": "0x08BE454de533509e8832B257116C5506E55b0b64",
+    "symbol": "STND",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x08BE454de533509e8832B257116C5506E55b0b64/logo.png"
+  },
 ]
